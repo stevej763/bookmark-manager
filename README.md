@@ -10,10 +10,10 @@ I would like to be able to see a list of my bookmarks
 So that I can quickly find saved websites
 ```
 
-| Object           | Methods        |
-| ---------------- | -------------- |
-| Bookmark         |                |
-| Bookmark Manager | list_bookmarks |
+| Object           | Methods            |
+| ---------------- | ------------------ |
+| Bookmark         |                    |
+| Bookmark Manager | find_all_bookmarks |
 
 ![show_bookmarks](./show_bookmarks_user_story.svg)
 
